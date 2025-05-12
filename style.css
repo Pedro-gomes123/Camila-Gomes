@@ -302,6 +302,18 @@ h2 {
     background-color: var(--secondary-color);
 }
 
+.cards-row {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.cards-row:last-child {
+    justify-content: center;
+    margin-bottom: 0;
+}
+
 /* Footer */
 footer {
     background: var(--primary-color);
