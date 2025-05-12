@@ -143,6 +143,20 @@ h2 {
     margin-top: 0rem;
 }
 
+.sobre-text {
+    padding: 1rem;
+}
+
+.sobre-text p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.sobre-text p:last-child {
+    margin-bottom: 0;
+}
+
 /* Serviços Section */
 .servicos {
     background: var(--light-bg);
