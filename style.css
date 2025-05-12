@@ -151,6 +151,8 @@ h2 {
     margin-bottom: 1.5rem;
     line-height: 1.8;
     text-align: justify;
+    letter-spacing: 0.5px;
+    word-spacing: 1.5px;
 }
 
 .sobre-text p:last-child {
