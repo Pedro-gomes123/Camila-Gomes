@@ -336,6 +336,13 @@ img{
         display: none;
     }
 
+    .title{
+        display: flex;
+        margin-top: 4rem;
+        justify-content: center;
+        align-items: center;
+    }
+
     .nav-links {
         display: flex;
         gap: 1rem;
